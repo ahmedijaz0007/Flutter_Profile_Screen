@@ -1,4 +1,4 @@
-# sampleprofileapp
+# Social Media Design App
 
 A new Social media app for testing creating mordren sleek UI and by default set state managemnt of FLutter. Supprts Material3 and dart 3.1.
 
